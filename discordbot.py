@@ -2,7 +2,7 @@ from discord.ext import commands
 import asyncio
 import requests
 
-TOKEN = "NzA2MzYwOTYzOTU5NDg4NTU1.Xq-lrQ.kSRe041t0kflksPGoqDoeD3wVLw"
+TOKEN = "NzA2MzYwOTYzOTU5NDg4NTU1.Xq_0ZA.z3QYeAh9m_bwVvYboTejYCixyb4"
 city = "Barnaul"
 key = "a6e3d155c190199497d700ebe6784302"
 
